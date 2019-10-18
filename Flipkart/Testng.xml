@@ -1,0 +1,8 @@
+<suite name="testngtesting"> 
+<test name ="testngtestpro"> 
+<classes name ="testngclass"> 
+<class name ="testngtest.testngclass1">
+</class>
+</classes>
+</test>
+</suite>
